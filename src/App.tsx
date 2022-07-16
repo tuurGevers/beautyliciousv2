@@ -1,24 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Slider from "./Slider";
+import Nav from "./Nav";
+import About from "./about";
+import Gallery from "./gallery";
+import Contact from "./Contact";
+import ContactForm from "./ContactForm";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{marginBottom:"24px"}}>
+      <Slider />
+      <Nav/>
+      <About/>
+      <Gallery/>
+      <Contact/>
+      <ContactForm/>
     </div>
   );
 }

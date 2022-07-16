@@ -1,38 +1,108 @@
-.App {
-  text-align: center;
+.slider-img{
+    width:100%;
+    height:60vh;
+    max-height: 60vh;
+    background-color:#fff;
+
+
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #A78D65;
+    color:#2f240d;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+
+    text-decoration: none;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a::before {
+    width: calc(100% + 50px + 4px - 120px);
+    height: calc(100% + 4px);
+    top: -2px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a::after {
+    height: calc(100% + 50px + 4px - 120px);
+    width: calc(100% + 4px);
+    left: -2px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
 }
 
-.App-link {
-  color: #61dafb;
+a:hover {
+    border-top-right-radius:0px;
+    border-bottom-left-radius:0px;
+}
+.tekst{
+    font-family: 'Open Sans', sans-serif !important;
+
+}
+.titel{
+    font-family: 'Gentium Book Plus', serif !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.gallery-img{
+    width:100%;
+    height:auto;
+
+}
+
+#about{
+    display: block; position: relative; top: -50px; visibility: hidden;
+}
+
+#diensten{
+    display: block; position: relative; top: -100px; visibility: hidden;
+
+}
+
+#contact{
+    display: block; position: relative; top: -64px; visibility: hidden;
+
+}
+
+.map{
+
+    border: 6px solid #DFE0DF !important;
+}
+
+input, textarea{
+    width:98%;
+
+}
+
+textarea{
+    width:98%;
+    resize: none;
+
+
+}
+
+.hide{
+    display:flex !important;
+    justify-content: space-around;
+    width:80%;
+}
+
+.tijd{
+    display:block !important;
+}
+
+@media only screen and (max-width:900px){
+    .hide{
+        display:none !important;
+    }
+
+    .tijd{
+        display:none !important;
+    }
 }
