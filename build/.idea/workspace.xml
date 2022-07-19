@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8457da40-aed3-4e94-b6ec-1a641b11096f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.6a8d5f1d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main.6a8d5f1d.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.c739950e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.c739950e.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main.c739950e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/about1.2ba5737eb12db21363c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/insta-logo.17b5cb3a0ce1ae417277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/massage_stoel.dfd35274de332ed0c00f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/massagestoel2.61708b425f427e4859eb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels1.35bcc518a92c4bc96013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels10.08d755011eaff87439c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels11.04eb3ce9ec76a6ac77b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels12.576f722f6509b3aa621d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels13.f65db9635791af13e0f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels14.c0b2f4ef322168d4690c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels15.181561eb3300ba7e1845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels16.4ed53125feae62ec9f74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels2.0db608650f1a28a5ce8c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels3.cdb857e1ad4d036db018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels5.00524744d8afb9d443c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels7.6490de69397f2195c6fa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels8.ed57f8b5652c08a9f30e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/nagels9.8eb2861c4c8ce1f91601.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/ontharing1.1b68f05525db9d2319e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/ontharing2.bab846e528be2fc04190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/ontharing3.f3a5a69fd6788bdcb6cc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/ontharing5.ce4fcf06f75569587950.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/ontharing6.443072828878f0ca4e9d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/ontharing7.dae7ec7484eb530df44c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage1 .c28b4b46efb659b8fc33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage1.c28b4b46efb659b8fc33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage2 .429473145dcc3d8f01d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage2.429473145dcc3d8f01d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage3 .c1a5c962e504c12a12d1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage3.c1a5c962e504c12a12d1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/rugmassage4.5b897af482041fd1abd5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/slide1c.cc70224b0e3caae45645.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/slide3.8c511248842cbb14528d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/slide_massages.8c511248842cbb14528d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/slide_nails.03dfb4e0e69b23bd545e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wenkbrauwen1.35974624c9f0ef5f8e25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wenkbrauwen2.41f7e42c7fafad0fd29c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wenkbrauwen3.cae7e8be8ff49b27f13d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wenkbrauwen4.f80b2a2f9224aeb3f745.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wenkbrauwen5.95aff9cb9e127d5e756a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wimpers1.abda07bc004ff0f6729d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wimpers2.fd8256025e852248ddf1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/media/wimpers3.31639f55b94a17029bbf.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CAVffccP6CMx1fhr4QYazwZGXY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8457da40-aed3-4e94-b6ec-1a641b11096f" name="Default Changelist" comment="" />
+      <created>1658245480454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658245480454</updated>
+      <workItem from="1658245481525" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="responsive" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive" />
+  </component>
+</project>
