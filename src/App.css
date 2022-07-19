@@ -14,9 +14,10 @@ body{
     color:#2f240d;
 }
 
-a {
+a,a:after, a:hover, a:before{
 
     text-decoration: none;
+    color:#fff;
 
 }
 

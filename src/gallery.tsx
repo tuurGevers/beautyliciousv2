@@ -77,15 +77,15 @@ const Gallery = () => {
                     >
                         <Box sx={{backgroundColor: "#272727", color: "#FFF8E8"}}>
                             <StyledButton variant={"contained"} className="titel" onClick={()=> {setSelected(1)
-                                toggleDrawer(false)}} >massage</StyledButton>
+                                setState(false)}} >massage</StyledButton>
                             <StyledButton variant={"contained"} className="titel" onClick={()=> {setSelected(2)
-                                toggleDrawer(false)}}>nagels</StyledButton>
+                                 setState(false)}}>nagels</StyledButton>
                             <StyledButton variant={"contained"} className="titel"onClick={()=> {setSelected(3)
-                                toggleDrawer(false)}}>ontharing</StyledButton>
+                                 setState(false)}}>ontharing</StyledButton>
                             <StyledButton variant={"contained"} className="titel" onClick={()=> {setSelected(4)
-                                toggleDrawer(false)}}>wenkbrouwen</StyledButton>
+                                 setState(false)}}>wenkbrouwen</StyledButton>
                             <StyledButton variant={"contained"} className="titel" onClick={()=> {setSelected(5)
-                                toggleDrawer(false)}}>wimpers</StyledButton>
+                                 setState(false)}}>wimpers</StyledButton>
 
                         </Box>
                     </Drawer>
